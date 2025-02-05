@@ -27,7 +27,5 @@ function fibRecursive(n){
     return arr;
 }
 
-// Merge Sort
-
 
 console.log(fibRecursive(8));
